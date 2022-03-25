@@ -1,0 +1,12 @@
+import React, { Component } from 'react';
+import EduDetails from './EduDetails'
+import './edudetails.css'
+
+class UserActivity extends React.Component {
+  render() {
+    return (
+        
+    );
+  }
+}
+export default UserActivity;
